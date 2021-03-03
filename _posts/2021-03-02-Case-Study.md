@@ -3,10 +3,9 @@ layout: post
 title: Case Study
 ---
 
-Case Study
-
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
+*Dependency security: Only 25% of the vulnerable dependencies we alert users about get patched. You have been asked to help GitHub improve the patch rate. Identify potential issues and propose solution(s) to address this gap.*
 
 ### Vision & Business Goals
 This is where the overview of the product/ feature vision is described in terms of business goals. What are we building? Why? How will it improve the business?
@@ -16,9 +15,11 @@ This is where you include a description of the components necessary to build/ im
 
 ### User Stories and Requirements
 
-User 
-User Story
-Priority
+| **User** | **User Story** | **Priority**   |
+| --- | --- | --- |
+| item1 | item1 description | H |
+| item2 | item2 description | L |
+
 
 
 ### Design
